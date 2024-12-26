@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+}
+.navbar.bg-body-tertiary {
+    background-color: black!important; 
+    height: 80px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.nav-brand {
+    margin: right 20px;
+}
+.navbar .container-fluid {
+  text-align: right;  
+}
